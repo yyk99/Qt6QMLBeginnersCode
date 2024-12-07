@@ -1,4 +1,4 @@
-import QtQuick
+import QtQuick 1.2
 
 Window {
     width: 640
